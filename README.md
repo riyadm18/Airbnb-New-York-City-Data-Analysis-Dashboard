@@ -19,11 +19,9 @@ The dataset includes information on Airbnb listings in NYC, such as:
 * Availability and reviews
 ## Features of dashboard
 * Top Review Count by Host Name
-
 Displays the hosts with the highest number of reviews.
 Helps identify popular and high-performing hosts in the market.
 Price and Listing Count Distribution
-
 * Average Price by Neighborhood
 Analyzes the average price of Airbnb listings for each neighborhood in New York City.
 Highlights pricing differences across Manhattan, Brooklyn, Queens, Staten Island, and the Bronx.
@@ -37,7 +35,7 @@ Provides insights into recent guest engagement and market activity.
 Average Price and Count of Minimum Nights
 * Average of reviews per month 
 Display the total month reviews
-*   Average of Price
+* Average of Price
 Display the total amount of the price
 * Numbers of the Reviews
 Display the sum of review
