@@ -1,4 +1,4 @@
-# 🏙️ Airbnb New York City Data Analysis Dashboard
+#  Airbnb New York City Data Analysis Dashboard
 
 This Power BI project visualizes and analyzes Airbnb listings data in New York City using various interactive visuals and KPIs.
 
@@ -8,7 +8,7 @@ This Power BI project visualizes and analyzes Airbnb listings data in New York C
 - **Source:** [Inside Airbnb](http://insideairbnb.com)
 - **Details:** The dataset includes detailed listings information such as location, price, availability, number of reviews, and host details.
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 The dashboard is designed to be interactive and provides insights for the years **2011 to 2019** with navigation buttons for each year.
 
